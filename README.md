@@ -1,5 +1,16 @@
 # MyTaskExploreeApp
 
+
+React Navigation - For screen navigation
+
+Async Storage - For local data storage
+
+Axios - For API calls
+
+React Native Screens - For better performance
+
+Safe Area Context - For device notch handling
+
 ### 📦 Install
 npm install @react-navigation/native @react-navigation/stack 
 react-native-screens react-native-safe-area-context 
